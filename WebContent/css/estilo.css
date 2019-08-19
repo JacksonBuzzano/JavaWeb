@@ -1,0 +1,173 @@
+/*Frase da Página alterar*/
+h2{
+	margin-left: 12%;
+	margin-top: 80px;
+	text-shadow: 0.1em 0.1em 0.2em blue;
+}
+
+/*Frase da Página alterar*/
+h5{
+	margin-left: 10px;
+	margin-top: 110px;
+	text-shadow: 0 0 0.2em blue, 0 0 0.2em blue;
+	font-style: italic; 
+	font-size: small;
+}
+
+/*Formulário da Página alterar*/
+form.alterar{
+	margin-top: 100px;
+	border: 2px solid blue;
+}
+
+/*Cor de Fundo do Furmulário*/
+form{
+	background-color: threedlightshadow;
+	border-radius: 10px;
+	border: 2px solid blue;
+}
+
+/*Cor de Fundo da Página*/
+.inicioBody{
+	background:graytext;
+}
+Body.pag{
+	background:gray;
+}
+
+/*Formulário onde esta os input*/
+.cnpj{
+	width: 400px;
+	margin-top: 30px;
+	margin-left:20px;
+	border-radius: 4px;
+	box-shadow: 5px -9px 3px threedshadow;
+}
+.e-mail{
+	width: 400px;
+	margin-top: 30px;
+	margin-left:20px;
+	border-radius: 4px;
+	box-shadow: 5px -9px 3px threedshadow;
+}
+.nome{
+	width: 400px;
+	margin-top: 30px;
+	margin-left:20px;
+	border-radius: 4px;
+	box-shadow: 5px -9px 3px threedshadow;
+}
+.cpf{
+	width: 300px;
+	margin-top: 30px;
+	margin-left: 100px;
+	border-radius: 4px;
+	box-shadow: 5px -9px 3px threedshadow;
+}
+.nascimento{
+	width: 190px;
+	margin-top: 30px;
+	margin-left: 100px;
+	border-radius: 4px;
+	box-shadow: 5px -9px 3px threedshadow;
+}
+.endereço{
+	width: 300px;
+	margin-top: 30px;
+	margin-left: 20px;	
+	border-radius: 4px;
+	box-shadow: 5px -9px 3px threedshadow;
+}
+.número{
+	width: 120px;
+	margin-top: 30px;
+	margin-left: 100px;
+	border-radius: 4px;	
+	box-shadow: 5px -9px 3px threedshadow;
+}
+.cidade{
+	width: 200px;
+	margin-top: 30px;
+	margin-left: 100px;
+	border-radius: 4px;
+	box-shadow: 5px -9px 3px threedshadow;	
+}
+.estado{
+	width: 150px;
+	margin-top: 30px;
+	margin-left: 100px;
+	border-radius: 4px;
+	box-shadow: 5px -9px 3px threedshadow;	 
+}
+.telefone{
+	width: 150px;
+	margin-top: 30px;
+	margin-left: 20px;
+	border-radius: 4px;
+	box-shadow: 5px -9px 3px threedshadow;
+}
+.função{
+	width: 150px;
+	margin-top: 30px;
+	margin-left: 100px;
+	border-radius: 4px;
+	box-shadow: 5px -9px 3px threedshadow;
+}
+.produto{
+	width: 250px;
+	margin-top: 30px;
+	margin-left: 80px;
+	border-radius: 4px;
+	box-shadow: 5px -9px 3px threedshadow;
+}
+.quantidade{
+	width: 109px;
+	margin-top: 30px;
+	margin-left: 110px;
+	border-radius: 4px;
+	box-shadow: 5px -9px 3px threedshadow;
+}
+.venda{
+	width: 130px;
+	margin-top: 30px;
+	margin-left: 50px;
+	border-radius: 4px;
+	box-shadow: 5px -9px 3px threedshadow;
+}
+.compra{
+	width: 140px;
+	margin-top: 30px;
+	margin-left: 50px;
+	border-radius: 4px;
+	box-shadow: 5px -9px 3px threedshadow;
+}
+.marca{
+	width: 210px;
+	margin-top: 30px;
+	margin-left: 100px;
+	border-radius: 4px;
+	box-shadow: 5px -9px 3px threedshadow;
+}
+
+/*Formatação do Formulário*/
+input {
+	margin-top:30px;
+	margin-bottom: 5px;
+}
+
+/*Formatação do Botão*/
+.btn-primary{
+	width: 100px;
+	margin-left:600px;	
+}
+/*Formatação da Tabela*/
+.table{
+	width: 470px;
+	margin: 10px auto;
+	border-radius: 10px;
+	border: 2px solid #c0c0c0;
+}
+tr:hover{
+	background-color: red;
+}
+
